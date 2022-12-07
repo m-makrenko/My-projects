@@ -1,0 +1,105 @@
+C:\курсовая\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form1.resources
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form2.resources
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+C:\курсовая\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+C:\курсовая\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form3.resources
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form4.resources
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form5.resources
+C:\курсовая\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form6.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form8.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form9.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form10.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form11.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form12.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form13.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+C:\Users\Maria\Downloads\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form14.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form14.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form8.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form9.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form10.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form11.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form12.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form13.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+E:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form14.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form8.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form9.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form10.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form11.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form12.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form13.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+F:\0\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form14.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form8.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form9.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form10.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form11.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form12.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form13.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+E:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form14.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form8.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form9.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form10.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form11.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form12.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form13.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+F:\Makrenko\Sourse\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe.config
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.exe
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\bin\Debug\TurIntel8.pdb
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csprojResolveAssemblyReference.cache
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form14.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form8.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form9.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form10.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form11.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form12.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form13.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Properties.Resources.resources
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.csproj.GenerateResource.Cache
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.exe
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.pdb
+F:\Makrenko1\Source\TurIntel8 (3)\TurIntel8\TurIntel8\obj\Debug\TurIntel8.Form17.resources

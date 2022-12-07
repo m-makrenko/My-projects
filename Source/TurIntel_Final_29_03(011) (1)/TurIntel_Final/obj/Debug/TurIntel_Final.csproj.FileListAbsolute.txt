@@ -1,0 +1,183 @@
+C:\курсовая\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+C:\курсовая\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+C:\курсовая\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+C:\курсовая\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+C:\Users\Maria\Downloads\TurIntel_Final\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+C:\Users\Боровик Людмила\Desktop\Макренко\TurIntel_Final1\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+C:\Users\ярл\Downloads\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+E:\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel8.exe
+C:\Users\Maria\Downloads\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel8.pdb
+J:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+J:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+J:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel8.exe
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel8.pdb
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel8.exe
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel8.pdb
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+F:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final_29_03\TurIntel_Final\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+E:\0\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel8.exe
+E:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel8.pdb
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel8.exe
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel8.pdb
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+F:\Makrenko\Sourse\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+F:\Makrenko1\Program\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+F:\Makrenko1\Program\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+F:\Makrenko1\Program\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe.config
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.exe
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.pdb
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.exe
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel_Final.pdb
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel8.exe
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\bin\Debug\TurIntel8.pdb
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.csprojResolveAssemblyReference.cache
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form1.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form2.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form3.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form4.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form5.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form6.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Properties.Resources.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.csproj.GenerateResource.Cache
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form15.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form16.resources
+F:\Makrenko1\Source\TurIntel_Final_29_03(011) (1)\TurIntel_Final_29_03(01)\TurIntel_Final\obj\Debug\TurIntel_Final.Form7.resources
